@@ -1,4 +1,4 @@
-# loan-risk-analysis-using-Python
+# Loan-risk-analysis-using-Python
 
 # Project Overview: Loan Application Analysis
 
